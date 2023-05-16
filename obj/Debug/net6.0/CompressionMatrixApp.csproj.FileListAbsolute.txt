@@ -1,0 +1,15 @@
+D:\projects\janat\CompressionMatrixApp\bin\Debug\net6.0\CompressionMatrixApp.exe
+D:\projects\janat\CompressionMatrixApp\bin\Debug\net6.0\CompressionMatrixApp.deps.json
+D:\projects\janat\CompressionMatrixApp\bin\Debug\net6.0\CompressionMatrixApp.runtimeconfig.json
+D:\projects\janat\CompressionMatrixApp\bin\Debug\net6.0\CompressionMatrixApp.dll
+D:\projects\janat\CompressionMatrixApp\bin\Debug\net6.0\CompressionMatrixApp.pdb
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.csproj.AssemblyReference.cache
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.AssemblyInfoInputs.cache
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.AssemblyInfo.cs
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.csproj.CoreCompileInputs.cache
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.dll
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\refint\CompressionMatrixApp.dll
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.pdb
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\CompressionMatrixApp.genruntimeconfig.cache
+D:\projects\janat\CompressionMatrixApp\obj\Debug\net6.0\ref\CompressionMatrixApp.dll
